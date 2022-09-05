@@ -1,0 +1,26 @@
+@charset "UTF-8";
+.number{
+  text-align: center;
+  margin-top: -890px;
+}
+h1{
+  font-size: 1000px;
+  font-family: 'Qwitcher Grypen', cursive;
+}
+
+.buttonarea {
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+  margin-top: -730px;
+}
+.buttonarea input{
+  height: 20px;
+  width: 65px;
+}
+
+html, body
+{
+ height: 100%;
+ overflow: hidden
+}
