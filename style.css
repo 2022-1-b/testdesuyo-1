@@ -1,10 +1,10 @@
 @charset "UTF-8";
 .number{
   text-align: center;
-  margin-top: -890px;
+  margin-top: -790px;
 }
 h1{
-  font-size: 1000px;
+  font-size: 900px;
   font-family: 'Qwitcher Grypen', cursive;
 }
 
@@ -12,7 +12,7 @@ h1{
   text-align: center;
   display: flex;
   justify-content: space-between;
-  margin-top: -730px;
+  margin-top: -630px;
 }
 .buttonarea input{
   height: 20px;
